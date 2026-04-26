@@ -192,19 +192,19 @@ CBS_Banking_System/
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### Customers
-![Customers](screenshots/customers.png)
+![Customers](Screenshots/customer.png)
 
 ### Accounts
-![Accounts](screenshots/accounts.png)
+![Accounts](Screenshots/accounts.png)
 
 ### Transactions
-![Transactions](screenshots/transactions.png)
+![Transactions](Screenshots/transactions.png)
 
 ### Audit Log
-![Audit Log](screenshots/auditlog.png)
+![Audit Log](Screenshots/auditlog.png)
 
 ---
 ## ⚠️ Important Notes
