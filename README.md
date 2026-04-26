@@ -189,7 +189,24 @@ CBS_Banking_System/
 | GET | `/api/auditlog/table/:name` | Get logs by table |
 
 ---
+## 📸 Screenshots
 
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Customers
+![Customers](screenshots/customers.png)
+
+### Accounts
+![Accounts](screenshots/accounts.png)
+
+### Transactions
+![Transactions](screenshots/transactions.png)
+
+### Audit Log
+![Audit Log](screenshots/auditlog.png)
+
+---
 ## ⚠️ Important Notes
 
 - Make sure **OracleServiceXE** and **OracleXETNSListener** Windows services are running before starting the backend
